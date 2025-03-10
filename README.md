@@ -11,6 +11,9 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 - 🧠 Currently learning more about Deep Learning, AI, and advancing my knowledge in Python and its IDEs.
 - 📖 Passionate about reading and staying updated in the field of software engineering and AI.
 
+## I spent my time on ⏳
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianLargo)
+
 ## 📫 Get in Touch
 - 💼 www.linkedin.com/in/adrian-largo-monteagudo/
 - 📧 adrianlargo14@gmail.com
