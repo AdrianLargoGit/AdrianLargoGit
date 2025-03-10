@@ -12,8 +12,8 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 - 📖 Passionate about reading and staying updated in the field of software engineering and AI.
 
 ## 📫 Get in Touch
-- 💼 [LinkedIn](www.linkedin.com/in/adrian-largo-monteagudo-028868349)
-- 📧 [Email](adrianlargo14@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/adrian-largo-monteagudo-028868349){:target="_blank"}
+- 📧 [Email](adrianlargo14@gmail.com){:target="_blank"}
 
 Feel free to check out my repositories and projects. Let's connect and collaborate! 🚀
 
