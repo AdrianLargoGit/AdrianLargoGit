@@ -16,9 +16,5 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 ## I spent my time on ⏳
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianLargo&theme=dark)
 
-## 📫 Get in Touch
-- 💼 www.linkedin.com/in/adrian-largo-monteagudo/
-- 📧 adrianlargo14@gmail.com
-
-Feel free to check out my repositories and projects. Let's connect and collaborate! 🚀
+**Feel free to get in contact. Let's connect and collaborate! 🚀**
 
