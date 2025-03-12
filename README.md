@@ -2,6 +2,8 @@
 
 I'm a passionate **Software Engineer** with expertise in **Java** and **Python**. I love building efficient, scalable, and well-structured applications while continuously learning and exploring new technologies.
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLargoGit&langs_count=10&theme=dark&layout=compact)
+
 ## 🚀 About Me
 - 💻 Strong background in **Java** and **Python** development.
 - 🛢️ Experience with **SQL databases** and database management.
