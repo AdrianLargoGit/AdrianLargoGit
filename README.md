@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 - 💻 Strong background in **Java** and **Python** development.
 - 🛢️ Experience with **SQL databases** and database management.
 - 🛠️ Proficient in **IntelliJ IDEA** and **Visual Studio** for software development.
-- 🤖 Enthusiast in **Artificial Intelligence** and working with **Jupyter Notebooks**. Starting with **Next.js, React & Typescript**.
+- 🤖 Enthusiast in **Artificial Intelligence** and working with **Automatications Tools**. Starting with **Next.js, React & Typescript**.
 - 📚 Always eager to learn and improve my coding skills.
 - 🧠 Currently learning more about Deep Learning, AI, and advancing my knowledge in Python and its IDEs.
 - 📖 Passionate about reading and staying updated in the field of software engineering and AI.
