@@ -2,7 +2,7 @@
 
 I'm a passionate **Software Engineer** with expertise in **Java** and **Python**. I love building efficient, scalable, and well-structured applications while continuously learning and exploring new technologies.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLargoGit&langs_count=10&theme=dark&layout=compact)
+![Lenguajes más usados](https://readme-stats-fast.vercel.app/api/top-langs/?username=AdrianLargoGit&layout=compact&theme=dark&langs_count=10)
 
 ## 🚀 About Me
 - 💻 Strong background in **Java** and **Python** development. Starting with **Next.js, React & Typescript**.
@@ -14,7 +14,7 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 - 📖 Passionate about reading and staying updated in the field of software engineering and AI.
 
 ## I spent my time on ⏳
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianLargo&theme=dark)
+![Wakatime Stats](https://readme-stats-fast.vercel.app/api/wakatime?username=AdrianLargo&theme=dark)
 
 **Feel free to get in contact. Let's connect and collaborate! 🚀**
 
