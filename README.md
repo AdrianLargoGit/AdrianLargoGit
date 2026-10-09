@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** with expertise in **Java** and **Python**
 ![Lenguajes más usados](https://readme-stats-fast.vercel.app/api/top-langs/?username=AdrianLargoGit&layout=compact&theme=dark&langs_count=10)
 
 ## 🚀 About Me
-- 💻 Strong background in **Java** and **Python** development. Starting with **Next.js, React & Typescript**.
+- 💻 Strong background in **Java** and **Python** development. Working with **Next.js, React & Typescript**.
 - 🛢️ Experience with **SQL databases** and database management.
 - 🛠️ Proficient in **IntelliJ IDEA** and **Visual Studio** for software development.
 - 🤖 Enthusiast in **Artificial Intelligence** and working with **Automatications Tools**.
